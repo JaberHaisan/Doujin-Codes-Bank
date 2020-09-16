@@ -3,8 +3,8 @@ You can store and use stored codes from doujin sites using this script.
 
 Currently these websites are supported: nhentai.net, hentainexus.net
 
-The code for a link can be found at the end of that link. For e.g. in "nhentai.net/g/123123" the code is
-123123.
+The code for a link can be found at the end of that link. For e.g. in "nhentai.net/g/1234567" the code is
+1234567.
 
 The default site for codes is nhentai. To change the site, enter the keyword for that site in the prompt
 (Available keywords are shown at the top of the prompt). Codes are saved in a text file in the same
