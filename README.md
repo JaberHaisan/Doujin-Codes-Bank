@@ -1,4 +1,4 @@
-# Doujin-Codes-Bank
+# doujin-codes-bank
 You can store and use stored codes from doujin sites using this script. 
 
 Currently these websites are supported: nhentai.net, hentainexus.net
